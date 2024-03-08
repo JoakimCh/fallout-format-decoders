@@ -115,7 +115,7 @@ export function frmLookup(frmId) {
     switch (type) {
       default: {
         const list = frmLists.get('art/'+type+'/'+type+'.lst')
-        if (!list || !list[id]) throw Error(`frmId not in use: ${frmId}`)
+        if (!list || !list[id]) throw Error(`frmId not available: ${frmId}, type: ${type}, id: ${id}`)
         return {type, id, path: 'art/'+type+'/'+list[id]}
       }
       case 'critters': return frmCritterId(frmId)
