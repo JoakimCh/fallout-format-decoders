@@ -24,9 +24,9 @@ Also the game will be entirely open source with an MIT license (which is very op
 
 A working tech demo will be maintained to showcase some of what we can do so far. It might not always be entirely up to date though; since it will be a snapshot of the code in a working (or somewhat working) state. So we can continue to work on the code in a somewhat "unstable manner"...
 
-[Click here to try out the "working tech demo".](./working_tech_demo/)
+[Click here to try out the "working tech demo".](https://joakimch.github.io/fallout-format-decoders/game/working_tech_demo/)
 
-[Click here to try out "whatever we're currently working on" (which might not even work).](./working_tech_demo/)
+[Click here to try out "whatever we're currently working on" (which might not even work).](https://joakimch.github.io/fallout-format-decoders/game/source/)
 
 ## So who's the team behind this?
 
