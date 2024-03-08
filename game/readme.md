@@ -4,11 +4,13 @@
 # 🛑🚧 Work In Progress! 🚧🛑
 The game is in an alpha stage and nowhere near complete!
 
+[Here is a letter about this project intended for the Fallout 1 & 2 community.](../community_letter.md)
+
 ## Disclaimer:
 
 The Fallout 1 & 2 assets are copyrighted by Bethesda Softworks and are only used here for demo purposes. In any final game I can't legally use them, unless loaded locally from an already installed Fallout game.
 
->Hence I reach out to any modders who have made their own Fallout compatible assets; please let me know if I can use them in my game. The authors of such assets will then be listed in the credits. 😎
+> Hence I reach out to any modders who have made their own Fallout compatible assets; please let me know if I can use them in my game. The authors of such assets will then be listed in the credits. 😎
 
 > I'm also looking into having an AI re-create the assets (please let me know if you can help with that also).
 

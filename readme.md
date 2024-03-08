@@ -3,7 +3,7 @@
 
 ![Screenshot from Chrome on desktop](./game/screenshots/desktop.png)
 
-This is the home for my:
+### This is the home for my:
 * Fallout format decoders.
 * "Fallout like" game.
 * "Fallout like" game engine.
@@ -11,6 +11,8 @@ This is the home for my:
 Basically it's 3 projects that are so closely tied together that (at least for now) I will keep them all in this repository.
 
 All the code here is written by me in JavaScript from scratch and MIT licensed.
+
+[Here is a letter about this project intended for the Fallout 1 & 2 community.](./community_letter.md)
 
 ## The Fallout format decoders.
 
