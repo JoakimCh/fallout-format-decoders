@@ -12,6 +12,10 @@ The Fallout 1 & 2 assets are copyrighted by Bethesda Softworks and are only used
 
 > I'm also looking into having an AI re-create the assets (please let me know if you can help with that also).
 
+## Some screenshots:
+![Screenshot from Chrome on desktop](./screenshots/desktop.png)
+![Screenshot from Chrome on Android](./screenshots/android.jpg)
+
 ## A short description.
 
 This game is a part of my bigger project which you can read about [here](../readme.md). It will be a new game (not a clone), but heavily inspired by the classic Fallout games. And it will be designed to run entirely in the browser, at least in any Chromium based browsers (Chrome, Edge, Brave, etc) and probably also Firefox.

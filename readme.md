@@ -1,6 +1,8 @@
 
 # A "Fallout like" game for the browser.
 
+![Screenshot from Chrome on desktop](./game/screenshots/desktop.png)
+
 This is the home for my:
 * Fallout format decoders.
 * "Fallout like" game.
