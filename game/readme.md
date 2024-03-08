@@ -34,6 +34,17 @@ A working tech demo will be maintained to showcase some of what we can do so far
 
 [Click here to try out "whatever we're currently working on" (which might not even work).](https://joakimch.github.io/fallout-format-decoders/game/source/)
 
+#### Keyboard controls:
+| Key | Action |
+| - | - |
+| Arrows | Camera movement. |
+| F | Toggle full-screen. |
+| H | Toggle hex grid (slow). |
+| G | Toggle tile grid (slow). |
+| R | Toggle roof. |
+| O | Toggle walls/objects/scenery. |
+| Enter | Toggle sliding camera towards the right. |
+
 ## So who's the team behind this?
 
 Currently it's only me Joakim L. Christiansen and I've been programming as a hobby since around 2005. I have the skills to pull this off, but my life is currently a mess and I desperately could need some funding ([GitHub Sponsorship](https://github.com/sponsors/JoakimCh)) to help me, my 2 kids and my wife continue to have food at our table! That would help development a lot! 🙏
